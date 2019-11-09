@@ -1,5 +1,5 @@
 # notifictinary-backend
-backend for notifictionary application
+backend for notifictionary application that writen in paython with django framwork.
 
 ## Instruction to run on PyCharm
 - In pycham run configuration select Edit Configurations...
